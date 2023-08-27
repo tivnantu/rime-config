@@ -1,0 +1,14 @@
+build
+sync
+easy_en.userdb/*.log
+easy_en.userdb/LOG*
+easy_en.userdb/LOCK
+easy_en.userdb/MANIFEST*
+easy_en.userdb/CURRENT
+luna_pinyin.userdb/*.log
+luna_pinyin.userdb/LOG*
+luna_pinyin.userdb/LOCK
+luna_pinyin.userdb/MANIFES*
+luna_pinyin.userdb/CURRENT
+user.yaml
+installation.yaml
